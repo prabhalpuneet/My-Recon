@@ -1,4 +1,4 @@
-# My-Recon
+# My-Recon.Project
 My Recon is a Bash-based automated reconnaissance tool designed for penetration testers and cybersecurity researchers. It streamlines the information-gathering phase by integrating multiple OSINT and web security utilities into a single workflow. The tool performs subdomain enumeration, Wayback URLs, archived URL extraction, live host detection, header and body analysis, JavaScript discovery, CORS testing, and GF-based vulnerability pattern identification.
 
 Key Features
